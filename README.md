@@ -1,6 +1,8 @@
 # HabotProject
 Task for HabotConnect DMCC
 
+here are some sample images for reference
+
 ![image](https://github.com/rks16/HabotProject/assets/141318334/1f504c9d-0b22-40ad-83b2-dbcf5c70a19d)
 ![image](https://github.com/rks16/HabotProject/assets/141318334/3dcecc3a-354e-4cdd-ab1b-b16ad77cf345)
 ![image](https://github.com/rks16/HabotProject/assets/141318334/bd7f450d-15cb-4f08-a762-717c41a9aeae)
