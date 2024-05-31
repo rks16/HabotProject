@@ -1,0 +1,84 @@
+.bgImg {
+  width: 100%;
+  height: 609px;
+  object-fit:cover;
+}
+
+.content {
+  top: 250px;
+  left: 320px;
+  text-align: center;
+  color: white;
+}
+
+input {
+  width: 420px;
+  height: 40px;
+  /* padding: 15px; */
+  border: none;
+  outline: none;
+
+  border-radius: 5px;
+}
+
+.ip{
+    width: 370px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: white;
+
+    display: flex;
+    position: absolute;
+    top: 380px;
+
+}
+
+.ip1{
+    /* border: 2px solid black; */   
+    left: 250px;
+}
+
+.ip2{
+    left: 630px;
+}
+
+.ip1::placeholder,
+.ip2::placeholder {
+    font-size: smaller;
+}
+
+#sch{
+    left: 1008px;
+    height: 50px;
+    
+    padding: 15px 25px;
+    border-radius: 5px;
+    
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 380px;
+}
+
+.txtt{
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+
+    display: flex;
+    gap: 3px;
+
+    position: absolute;
+    top: 450px;
+    left: 300px;
+}
+
+.txtt > :nth-child(2){
+    font-weight: normal;
+    text-decoration: underline;
+
+}
+
+

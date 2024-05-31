@@ -1,0 +1,60 @@
+.cont{
+    margin: auto;
+    width: 90vw;
+    height: 500px;
+
+    padding: 70px;
+
+
+    background-color: #072F57;
+    border-radius: 5px;
+}
+
+.vid{
+    height: 350px;
+    width: 480px;
+}
+
+.vid> #YT{
+    height: 350px;
+    width: 480px;
+    position: absolute;
+}
+
+.vid>#ytLg{
+    position: relative;
+    top: 42%;
+    left: 38%;
+
+    width: 90px;
+}
+
+.tap{
+    height: 350px;
+    width: 480px;
+
+    padding: 30px;
+
+    display: flex;
+    align-items: center;
+
+}
+
+.ck li{
+    list-style: none;
+    /* font-size: 14px; */
+    margin: 5px;
+    color: white;
+}
+
+.ck li img{
+    width: 15px;
+}
+
+.tab-content{
+    width: 500px;
+}
+
+ul li a{
+    color: #EB7150;
+} 

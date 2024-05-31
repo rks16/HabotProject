@@ -1,0 +1,23 @@
+nav{
+    height: 86px;
+    width: 100%;
+}
+
+.head{
+    width: 834px;
+    height: 70px;
+    padding: 8px 0px;
+    color: black;
+    font-weight: 400;
+}
+
+.head ul li{
+    font-size: 14px;
+}
+
+.head button{
+    font-weight: bold;
+    font-size: small;
+    padding: 10px 20px;
+    border-radius: 5px;
+}

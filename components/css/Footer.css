@@ -1,0 +1,16 @@
+footer{
+    background-color: #123557;
+    margin-top: 100px;
+}
+
+footer a{
+    text-decoration: none;
+}
+
+footer h5{
+    font-weight: bold;
+}
+
+footer ul li{
+    font-size: 15px;
+}

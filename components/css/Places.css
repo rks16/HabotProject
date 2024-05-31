@@ -1,0 +1,53 @@
+.left{
+    width: 50vw;
+    height: 420px;
+    padding: 80px 50px;
+}
+
+
+.left h3{
+    font-weight:900;
+    line-height: 40px;
+}
+
+#hb{
+    color: rgb(3, 3, 49);
+}
+
+#plc{
+    font-size: 18px;
+    height: 54px;
+    width: 317px;
+    border-radius: 5px;
+    
+}
+
+.right{
+    width: 50vw;
+    height: 420px;
+    padding: 80px 50px;
+
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px; 
+    padding: 20px;
+}
+
+.grid-item{
+    border: 2px solid #E7760D;
+    border-radius: 5px;
+
+    width: 260px;
+    height: 65px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 10px;
+    text-align: center;
+
+}
